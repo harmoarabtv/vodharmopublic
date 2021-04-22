@@ -1,4 +1,6 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AFLAM",
 #EXTINF:-1,3afroto.1999
 http://62.210.209.138:41000/movie/v52/v43/1.mp4
 #EXTINF:-1,Al.Ostaz.Mazzika.1978
